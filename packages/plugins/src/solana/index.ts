@@ -1,1 +1,0 @@
-export { SolanaPlugin } from "./plugin";
