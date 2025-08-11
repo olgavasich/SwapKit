@@ -1,6 +1,0 @@
-{
-  "name": "@internal/tools-typescript",
-  "private": true,
-  "version": "0.0.0",
-  "files": ["./base.json"]
-}

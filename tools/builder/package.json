@@ -1,9 +1,0 @@
-{
-  "name": "@internal/tools-builder",
-  "version": "0.0.0",
-  "files": ["index.ts"],
-  "devDependencies": {
-    "@types/bun": "1.2.18"
-  },
-  "private": true
-}
